@@ -1,2 +1,2 @@
-# Documentation-Jan-2025
+# Guide
 To collaborate and create product documentation for Jan 2025
